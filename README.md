@@ -11,5 +11,10 @@ Use `code` to mark inline code
 | Content1   |   Content2   |    Content3 |
 | Content4   |   Content5   |    Content6 |
 
-***
-- - -
+Method 1: Add two spaces at end of line  
+Then break line
+
+Method 2: Use HTML tag<br>
+Break line
+
+Method 3: Separate by blank line
